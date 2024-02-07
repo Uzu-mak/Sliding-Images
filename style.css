@@ -201,6 +201,7 @@ font-weight: 500;
         z-index: 1;
     }
 
+
 .carousel .list .item:nth-child(1) .title{
         animation-delay:.8s;
 }
@@ -216,7 +217,7 @@ font-weight: 500;
 
 
 /*effect nect click*/
-.carousel.next .list .item:nth-child(1) img{
+/*.carousel.next .list .item:nth-child(1) img{
         width:150px;
         height:220px;
         position:absolute;
@@ -224,7 +225,7 @@ font-weight: 500;
         bottom:50px;
         border-radius:20px;
         animation:showImage 0.5s linear 1forwards;
-}
+}*/
 
 @keyframes showImage{
         to{
